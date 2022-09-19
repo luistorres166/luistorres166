@@ -6,7 +6,7 @@
 ### <div align="center">I'm Luis, a full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Fantasy football league stats webpage](https://https://github.com/fvaldez3/FFTools)  
+- 🔭 I’m currently working on [Fantasy football league stats webpage](https://github.com/fvaldez3/FFTools)  
   
 
 - 🌱 I’m currently learning Java  
